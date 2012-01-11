@@ -4,6 +4,7 @@
  */
 
 #import "SCClassUtils.h"
+#import <objc/runtime.h>
 
 @implementation SCClassUtils
 
